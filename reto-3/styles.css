@@ -1,0 +1,14 @@
+
+body {
+    background-color: rgb(11, 136, 219);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 1rem;
+}
+
+h1 {
+    font-size: 2rem;
+    text-align: left;
+    margin-top: 2rem;
+    color: goldenrod;
+}
