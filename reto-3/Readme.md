@@ -1,4 +1,4 @@
-### Reto 3 del curso de FUNDAE
+### Reto 3 del curso de FUNDAE: jQuery
 
 He conseguido crear el archivo HTML con la referencia a jQuery.
 
